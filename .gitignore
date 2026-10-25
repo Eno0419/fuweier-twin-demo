@@ -1,0 +1,7 @@
+node_modules/
+.local-cad/
+dist/
+.openai/local/
+*.log
+*.tsbuildinfo
+test-results/
